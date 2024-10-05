@@ -1,4 +1,4 @@
-# Spotify SQL Analysis 
+# Spotify SQL Data Analysis 
 # <img src="https://www.logo.wine/a/logo/Spotify/Spotify-Icon-Logo.wine.svg" alt="Spotify Logo" width="80" height="80">  <img src="https://github.com/user-attachments/assets/3e206741-69c8-4eb1-bc9d-52e031f15a38" alt="Data Preparation Logo" width="80" height="80">  <img src="https://github.com/user-attachments/assets/84a1540e-c509-45a1-b4c3-c3ae8e44b932" alt="sql Logo" width="80" height="80">  <img src="https://github.com/user-attachments/assets/24a8a0fb-0e5f-41c1-a0eb-a2fd6eb53572" alt="data Logo" width="80" height="80">
 
 ## Overview
