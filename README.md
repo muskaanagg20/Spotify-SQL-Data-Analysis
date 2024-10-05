@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project involves the analysis of a **Spotify dataset** using **SQL** to extract insights about artists, albums, tracks, and user interactions. The primary goal is to perform advanced SQL querying, optimize query performance, and practice SQL best practices on a real-world dataset. The project covers the full spectrum from **data normalization** to complex **window functions**.
+This project involves the analysis of a **Spotify dataset** using **SQL** to extract insights about artists, albums, tracks, and user interactions. The primary goal is to perform advanced SQL querying and practice SQL best practices on a real-world dataset. The project covers the full spectrum from **basic SQL queries** to complex **window functions**.
 
 ---
 
