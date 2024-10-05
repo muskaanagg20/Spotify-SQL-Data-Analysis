@@ -7,18 +7,34 @@ This project involves the analysis of a **Spotify dataset** using **SQL** to ext
 
 ---
 
-### Dataset Information  
-The Spotify dataset contains rich data on tracks, albums, artists, and engagement metrics like views, likes, and comments. The key columns used in the analysis are:  
+## Dataset Information
+The Spotify dataset contains rich data on tracks, albums, artists, and engagement metrics like views, likes, and comments. The key columns used in the analysis are:
 
-| **Column**     | **Description**                                            |
-| -------------- | ---------------------------------------------------------- |
-| **Artist**     | The artist who created the track                            |
-| **Track**      | The track title                                             |
-| **Album**      | The album to which the track belongs                        |
-| **Danceability**| A score indicating the danceability of the track            |
-| **Energy**     | Measures the intensity and activity of a track              |
-| **Views**      | Total views on official videos across platforms             |
-| **Likes**      | Total likes on official videos across platforms             |
+| **Column**         | **Description**                                             |
+| ------------------ | ----------------------------------------------------------- |
+| **Artist**         | The artist who created the track                           |
+| **Track**          | The track title                                            |
+| **Album**          | The album to which the track belongs                       |
+| **Album Type**     | Specifies whether it is a single, album, or other types   |
+| **Danceability**   | A score indicating the danceability of the track           |
+| **Energy**         | Measures the intensity and activity of a track             |
+| **Loudness**       | Overall loudness of the track in decibels                  |
+| **Speechiness**    | The presence of spoken words in a track                    |
+| **Acousticness**   | A measure of the acoustic quality of the track             |
+| **Instrumentalness** | Predicts whether a track contains no vocals               |
+| **Liveness**       | Detects the presence of an audience in the recording       |
+| **Valence**        | A measure of musical positiveness                           |
+| **Tempo**          | The tempo of the track in beats per minute                 |
+| **Duration_min**   | Duration of the track in minutes                            |
+| **Channel**        | The channel through which the track is available            |
+| **Views**          | Total views on official videos across platforms             |
+| **Likes**          | Total likes on official videos across platforms             |
+| **Comments**       | Total comments on official videos                           |
+| **Licensed**       | Indicates if the track is licensed                          |
+| **Official Video** | Indicates if the track has an official video               |
+| **Stream**         | Total streams of the track across various platforms         |
+| **Energy_Liveness** | Ratio of energy to liveness                                 |
+| **Most Played On** | Platform where the track is most played                    |
 
 This dataset offers great potential for performing in-depth analysis on track popularity, artist performance, and user behavior on Spotify.
 
